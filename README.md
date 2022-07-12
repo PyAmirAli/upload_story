@@ -3,3 +3,5 @@
 <br>
 <h3>jpg png file extension</h3>
 
+<p>upload_story('img_path','username','password')</p>
+
